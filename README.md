@@ -1,7 +1,8 @@
 # CloudProxy
 
 
-[Join Discord server!]([https://www.google.com](https://discord.gg/49YsuMZQuC))
+
+* [Join CloudProxy Discord](https://discord.gg/49YsuMZQuC)
 
 
 
